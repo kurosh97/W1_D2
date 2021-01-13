@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StartActivityForResult</string>
+    <string name="btn">Button</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="etName">Please enter your name</string>
+    <string name="etEmail">Please enter your email</string>
+    <string name="launchFirstActivity">Launch First Activity</string>
+    <string name="launchSecondActivity">Launch Second Activity</string>
+    <string name="imageText">Image of a rocket launching into space</string>
+    <string name="snackBarText">Press this to display the snack bar</string>
+</resources>

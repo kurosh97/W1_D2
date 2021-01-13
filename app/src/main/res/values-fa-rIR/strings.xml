@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StartActivityForResult</string>
+    <string name="btn">دکمه</string>
+    <string name="btnSubmit">ارسال</string>
+    <string name="etName">لطفا نام خود را وارد کنید</string>
+    <string name="etEmail">لطفا ایمیل خود را وارد کنید</string>
+    <string name="launchFirstActivity">اولین فعالیت را راه اندازی کنید</string>
+    <string name="launchSecondActivity">فعالیت دوم را راه اندازی کنید</string>
+    <string name="imageText">تصویر پرتاب موشک به فضا</string>
+    <string name="snackBarText">برای نمایش نوار میان وعده این را فشار دهید</string>
+</resources>
